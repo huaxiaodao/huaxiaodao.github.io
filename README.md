@@ -1,4 +1,4 @@
-# new-rubyer.github.io
+#
 趁着阿里云优惠活动买了一台服务器玩玩。
 
 本来是想搭个网站玩玩，没找到适合的方面，就先搭个人博客试一下。
@@ -8,3 +8,6 @@
 主要参考了http://www.ezlippi.com/ 博主的教程和http://www.jianshu.com/p/e99ed60390a8 作者的同步到git，以及hexo和next主题的官方文档。
 
 后续坚持写点东西和调整板式，最后还是搭个人网站。呼呼呼
+
+
+#博客地址：https://huaxiaodao.github.io/
